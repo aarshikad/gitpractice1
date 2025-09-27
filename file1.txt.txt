@@ -1,2 +1,2 @@
-file1 line1
-file1 line2
+file1
+file1 line2 and extra word

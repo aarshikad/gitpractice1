@@ -1,2 +1,3 @@
 file1
 file1 line2 and extra word
+file1 line3
